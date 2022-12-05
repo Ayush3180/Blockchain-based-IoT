@@ -1,0 +1,21 @@
+body {
+  background-image: url(rpbackground.jpg);
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 255, 255);
+  background-position: center;
+}
+
+a {
+  text-decoration: none;
+  background-color: #4caf50;
+  color: white;
+  padding: 3px 7px;
+  border-top: 2px solid #b4b3b3;
+  border-right: 2px solid #141414;
+  border-bottom: 2px solid #141414;
+  border-radius: 6px;
+}
+
+a:hover {
+  opacity: 0.8;
+}

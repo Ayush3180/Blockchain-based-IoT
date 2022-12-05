@@ -1,0 +1,4 @@
+flask==2.1.2
+web3==5.29.2
+simplejson~=3.17.6
+GPIOSimulator==0.1

@@ -1,0 +1,9 @@
+cache/
+__pycache__/
+*.swf
+*.env
+bin-release/
+.settings/
+node_modules/
+build/
+artifacts/
